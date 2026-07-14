@@ -26,6 +26,5 @@ public class IteratorList {
             }
         }
         System.out.println(list);
-
     }
 }
