@@ -34,5 +34,4 @@ public class MaxArray {
             System.out.print(a + " ");
         }
     }
-
 }
