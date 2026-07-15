@@ -6,7 +6,7 @@ public class TwoDimentionalArrayFill {
         int sizeJ = 3;
         int[][] array = new int[sizeI][sizeJ];
 
-        //заполнение массива
+        // заполнение массива
         for(int i =0; i < sizeI; i++) {
             for(int j = 0; j < sizeJ; j++) {
                 array[i][j] = i * j + 1;
