@@ -2,7 +2,7 @@ package com.company.lessonFourSwitch.array;
 
 public class TwoDimensionalArray {
     public static void main(String[] args) {
-        //три на три создастся три на три массив, как матрица
+        // три на три создастся три на три массив, как матрица
         int[][] array = new int[3][3];
 
         array[0][0] = 1;
