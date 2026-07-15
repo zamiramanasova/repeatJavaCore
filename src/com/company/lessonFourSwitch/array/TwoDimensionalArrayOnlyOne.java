@@ -9,6 +9,5 @@ public class TwoDimensionalArrayOnlyOne {
         int[][] matrix = new int[1][1];
         matrix[0][0] = 200;
         System.out.println(matrix[0][0]);
-
     }
 }
