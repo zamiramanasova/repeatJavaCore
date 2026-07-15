@@ -12,7 +12,7 @@ public class TwoDimentionalArrayFill {
                 array[i][j] = i * j + 1;
             }
         }
-        //вывод массива
+        // вывод массива
         for (int i = 0; i < sizeJ; i++) {
             for(int j = 0; j < sizeJ; j++) {
                 System.out.println(" " + array[i][j]);
