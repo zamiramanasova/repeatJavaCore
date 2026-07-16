@@ -13,7 +13,7 @@ public class PalindromeString {
     private static boolean isPalindrome(String s) {
         // base step
         if(s.length() == 1 || s.length() == 0)
-            return true; //тогда палиндром
+            return true; // тогда палиндром
 
         //если s чарет ноль равняется  s.charAt(s.length() - 1) с последним, то
         // то тогда мы продолжаем вызывать палиндром
