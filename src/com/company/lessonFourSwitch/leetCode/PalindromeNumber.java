@@ -4,7 +4,7 @@ package com.company.lessonFourSwitch.leetCode;
  * Given an integer x, return true if x is palindrome integer.
  * An integer is a palindrome when it reads the same backward as forward.
  * For example, 121 is a palindrome while 123 is not.
- * Dont use String, char.
+ * Don't use String, char.
  */
 public class PalindromeNumber {
     public static void main(String[] args) {
