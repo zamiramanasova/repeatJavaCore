@@ -9,7 +9,7 @@ public class Continue {
             counter++;
             System.out.println("Counter: " + counter);
 
-            if (true) continue;// с пропуском итерации continue
+            if (true) continue; // с пропуском итерации continue
 
             System.out.println("Это строка не выполнится");
         }
