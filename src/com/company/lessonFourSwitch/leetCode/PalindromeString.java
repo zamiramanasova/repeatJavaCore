@@ -15,7 +15,7 @@ public class PalindromeString {
         if(s.length() == 1 || s.length() == 0)
             return true; // тогда палиндром
 
-        //если s чарет ноль равняется  s.charAt(s.length() - 1) с последним, то
+        // если s чарет ноль равняется  s.charAt(s.length() - 1) с последним, то
         // то тогда мы продолжаем вызывать палиндром
         if(s.charAt(0) == s.charAt(s.length() - 1))
             //при возвр true, то я беру стринг и обрезаю с обеих сторон похожие
