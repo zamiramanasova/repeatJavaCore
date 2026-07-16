@@ -11,7 +11,7 @@ public class PalindromeString {
     }
 
     private static boolean isPalindrome(String s) {
-        //base step
+        // base step
         if(s.length() == 1 || s.length() == 0)
             return true; //тогда палиндром
 
