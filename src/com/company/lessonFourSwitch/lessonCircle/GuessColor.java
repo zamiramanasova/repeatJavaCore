@@ -29,6 +29,5 @@ public class GuessColor {
             break;
         }
         System.out.println("Конец игры");
-
     }
 }
