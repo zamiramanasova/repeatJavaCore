@@ -121,5 +121,4 @@ public class HomeWorkAida {
 //            System.out.println(Math.pow(f, 2));
 //        }
     }
-
 }
