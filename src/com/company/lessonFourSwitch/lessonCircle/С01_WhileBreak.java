@@ -8,7 +8,7 @@ public class С01_WhileBreak {
             counter++;
             System.out.println("Counter " + counter);
 
-            if (true) break;// если правда то мы выходим из цикла
+            if (true) break; // если правда то мы выходим из цикла
             System.out.println("Это строка не выполнится");
         }
         System.out.println("Произведено " + counter + " итераций.");
