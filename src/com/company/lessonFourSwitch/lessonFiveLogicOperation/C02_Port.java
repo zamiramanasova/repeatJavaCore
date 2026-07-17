@@ -11,7 +11,7 @@ public class C02_Port {
 
         byte port = 0b1110000; // 0111 0000 начальное значение порта ввода/вывода.
         byte mask = 0b0000010; // 0000 0010 маска включения устройства управляемого первым битом
-        System.out.println("port: "+ port); //ситуация с лампочкой в комнате.
+        System.out.println("port: "+ port); // ситуация с лампочкой в комнате.
 
         port = (byte)(port | mask); //включить устройство управляемое первым битом
         System.out.println("port: " + port);
