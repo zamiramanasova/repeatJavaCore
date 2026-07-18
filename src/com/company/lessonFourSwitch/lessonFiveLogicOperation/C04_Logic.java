@@ -6,7 +6,7 @@ public class C04_Logic {
         boolean operand1 = false, operand2 = false, result = false;
 
         // Таблица истинности для Конъюкции И && AND
-        //если хоть одно выражение имеет значение false
+        // если хоть одно выражение имеет значение false
         // все выражение имеет значение false иначе true
         // false & false = false
         // false & true = false
