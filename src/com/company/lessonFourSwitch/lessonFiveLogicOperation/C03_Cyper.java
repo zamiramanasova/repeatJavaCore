@@ -17,7 +17,7 @@ public class C03_Cyper {
         System.out.println("Защифрованный символ " + character + " его код в кодовой таблице " + (byte)character);
 
         // расшифровываем символ character = 0100 0100 (68)
-        character = (char)(character ^ secretKey);// 0100 0100 ^ 0000 0101
+        character = (char)(character ^ secretKey); // 0100 0100 ^ 0000 0101
         System.out.println("Защифрованный символ " + character + " его код в кодовой таблице " + (byte)character);
 
     }
