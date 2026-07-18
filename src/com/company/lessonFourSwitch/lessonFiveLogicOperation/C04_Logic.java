@@ -40,7 +40,7 @@ public class C04_Logic {
             }
         }
 
-        //вывести самое меньшее а
+        // вывести самое меньшее а
         if (a < b && a < x) {
             System.out.println(a);
         } else if (b < a && b < x) {
