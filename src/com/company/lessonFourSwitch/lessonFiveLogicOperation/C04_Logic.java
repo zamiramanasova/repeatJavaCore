@@ -49,6 +49,5 @@ public class C04_Logic {
             System.out.println(x);
         }
 
-
     }
 }
