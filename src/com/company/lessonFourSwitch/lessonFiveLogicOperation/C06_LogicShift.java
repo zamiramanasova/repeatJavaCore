@@ -2,7 +2,7 @@ package com.company.lessonFourSwitch.lessonFiveLogicOperation;
 
 public class C06_LogicShift {
     public static void main(String[] args) {
-        //ЛОГИЧЕСКИЙ СДВИГ - SHIFT
+        // ЛОГИЧЕСКИЙ СДВИГ - SHIFT
 
         byte operand = 0b0000001;
         System.out.println("Число до сдвига: " + operand);
