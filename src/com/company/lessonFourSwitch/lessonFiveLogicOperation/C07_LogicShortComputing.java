@@ -3,7 +3,7 @@ package com.company.lessonFourSwitch.lessonFiveLogicOperation;
 public class C07_LogicShortComputing {
     public static void main(String[] args) {
         // Короткозамкнутое вычисление - техника работающая по следующему принципу:
-        //Если значение первого операнда в операции AND (&&) ложно, то второй операнд не вычисляется,
+        // Если значение первого операнда в операции AND (&&) ложно, то второй операнд не вычисляется,
         //потому что полное выражение в любом случае будет ложным
         final int MIN_VALUE = 1;
         int denominator = 0;
