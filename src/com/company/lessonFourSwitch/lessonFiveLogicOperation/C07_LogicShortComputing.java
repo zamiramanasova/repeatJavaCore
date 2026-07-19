@@ -19,6 +19,5 @@ public class C07_LogicShortComputing {
             System.out.println("Мы в блоке Else");
         }
         // рекомендуется использовать два знака &&
-
     }
 }
