@@ -33,7 +33,7 @@ public class CO1_Logic {
         System.out.println(result3);
 
         // Отрицание
-        //Таблица истинности для отрицания НЕТ - ~ - NOT
+        // Таблица истинности для отрицания НЕТ - ~ - NOT
         byte operand7 = 1;
         int result4 = ~operand7;
         System.out.println(result4);
