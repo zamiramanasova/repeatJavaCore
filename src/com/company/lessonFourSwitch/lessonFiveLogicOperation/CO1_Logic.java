@@ -3,7 +3,7 @@ package com.company.lessonFourSwitch.lessonFiveLogicOperation;
 public class CO1_Logic {
     public static void main(String[] args) {
 
-        //Конъюкция И - & - AND
+        // Конъюкция И - & - AND
         //Если хоть один из операндов имеет значение 0 - все имеет значение ноль.
         //Иначе  - 1.
         //  0 & 0 =0  1 & 0 = 0
