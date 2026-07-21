@@ -6,7 +6,7 @@ public class Method {
 
         argument = (byte)(argument + 1);
        // argument++;    анологично
-       //  argument += 1;   анологично
+       // argument += 1;   анологично
         return argument;
     }
 
