@@ -15,7 +15,7 @@ public class MethodRecursionInt {
         int a = 676, b = 3676;
 
         System.out.println("a = " + a + ", b = " + b + ", HOD = " + calculate(a, b) + ";");
-        //System.out.println("a = " + a + ", b = " + b + ", HOD = " + calculate2(a, b) + ";");
+        // System.out.println("a = " + a + ", b = " + b + ", HOD = " + calculate2(a, b) + ";");
     }
 
     // second variant
