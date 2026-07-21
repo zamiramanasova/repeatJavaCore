@@ -28,7 +28,7 @@ public class DeMorganTheoremes {
             System.out.println(!a || !b);
         }
 
-        //условие после применения теоремы Де Моргана
+        // условие после применения теоремы Де Моргана
         if (!(a && b)) {
             System.out.println(a && b);
         } else {
