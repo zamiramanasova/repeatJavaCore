@@ -9,7 +9,7 @@ public class DeMorganTheoremes {
 
         // Исходное выражение                                  Эквивалентное выражение
         // !A & !B                                               !(A | B)
-        // !A & B                                               !(A | !B)
+        // !A & B                                                !(A | !B)
         //  A & !B                                               !(!A | B)
         //  A & B                                                !(!A | !B)
         //  !A | !B                                              !(A & B)
