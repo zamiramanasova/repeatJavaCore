@@ -33,7 +33,7 @@ public class Method {
     }
 
     static boolean and(boolean a, boolean b) {
-        return a && b;  //логическое И по сути означает умножение
+        return a && b;  // логическое И по сути означает умножение
     }
 
      public static void main(String[] args) {
