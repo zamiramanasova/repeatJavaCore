@@ -23,6 +23,5 @@ public class MethodRecursionInt {
         while (b != 0)
             b = a % (a = b);
         return a;
-
     }
 }
