@@ -10,6 +10,6 @@ public class MethodMainOverload {
     }
 
     public static void main() {
-        System.out.println("I t is usual method without String[] args!");
+        System.out.println("It is usual method without String[] args!");
     }
 }
