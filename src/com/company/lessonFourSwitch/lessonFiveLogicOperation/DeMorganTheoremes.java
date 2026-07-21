@@ -3,7 +3,7 @@ package com.company.lessonFourSwitch.lessonFiveLogicOperation;
 public class DeMorganTheoremes {
     public static void main(String[] args) {
 
-        // Преоразование логических переменных в соответствии с теоремами Де Моргана
+        // Преобразование логических переменных в соответствии с теоремами Де Моргана
         // Для применения теорем Де Моргана к логическому оператору AND и OR и паре операндов,
         // инвертировать все выражение полностью
 
