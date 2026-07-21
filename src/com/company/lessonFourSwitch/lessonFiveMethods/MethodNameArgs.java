@@ -7,7 +7,7 @@ public class MethodNameArgs {
     }
 
     public static void main(String[] args) {
-        //можно вызвать метод так
+        // можно вызвать метод так
         int difference;
         difference = difference(6,5);
 
