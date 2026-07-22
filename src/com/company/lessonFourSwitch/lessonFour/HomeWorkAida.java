@@ -13,7 +13,7 @@ public class HomeWorkAida {
          * терс сан - аны он санга которуп - консольго чыыгарабыз.
          * 0 -> 0
          */
-//
+
 //        System.out.println("Just input Scanner");
 //
 //        Scanner input = new Scanner(System.in);
