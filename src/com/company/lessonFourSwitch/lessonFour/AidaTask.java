@@ -14,7 +14,6 @@ public class AidaTask {
          * 25  жок
          * -1  жок
          * if - else if
-
          * */
         System.out.println("Введите время: ");
         Scanner sc = new Scanner(System.in);
