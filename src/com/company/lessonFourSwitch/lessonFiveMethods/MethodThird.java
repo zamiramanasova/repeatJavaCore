@@ -24,5 +24,4 @@ public class MethodThird {
         result = addTwo(result);
         System.out.println("Значение result = " + result);
     }
-
 }
