@@ -6,7 +6,6 @@ public class HomeWorkAida {
 
     public static void main(String[] args) {
 
-
         /**
          * 5. используем Scanner Целое число через консоль - если положительное вывести на консоль,
          * если отрицательное - сделать положительным
