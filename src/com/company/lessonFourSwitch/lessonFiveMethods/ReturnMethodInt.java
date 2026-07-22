@@ -20,7 +20,7 @@ public class ReturnMethodInt {
 
         System.out.println("Значение result = " + result);
         result = 10;
-        //в качестве аргумента передается не сама переменная = result, а ее копия
+        // в качестве аргумента передается не сама переменная = result, а ее копия
         result = addTwo(result);
         System.out.println(addTwo(result));
         System.out.println(result);
