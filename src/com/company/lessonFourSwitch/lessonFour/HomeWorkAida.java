@@ -16,7 +16,6 @@ public class HomeWorkAida {
 //
 //        System.out.println("Just input Scanner");
 //
-
 //        Scanner input = new Scanner(System.in);
 //        int buffer = input.nextInt();
 //        if (buffer > 0) {
