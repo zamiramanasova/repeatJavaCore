@@ -28,7 +28,7 @@ public class Main {
         int m = 255;
         float g = 0f;
         g = m;
-        System.out.println(g);//255.0
+        System.out.println(g);// 255.0
 
         // явное преобразование
         int x = 128;
