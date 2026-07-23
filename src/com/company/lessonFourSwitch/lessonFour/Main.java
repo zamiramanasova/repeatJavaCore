@@ -12,7 +12,7 @@ public class Main {
         // short
         short d = -32768;
         short e = +32767;
-        //int
+        // int
         int q = -2147483648;
         int w = +2147483647;
 
