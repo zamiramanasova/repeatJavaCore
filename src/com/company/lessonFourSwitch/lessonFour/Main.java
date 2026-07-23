@@ -30,7 +30,7 @@ public class Main {
         g = m;
         System.out.println(g);//255.0
 
-        //явное преобразование
+        // явное преобразование
         int x = 128;
         byte n = 0;
         n = (byte) x;
