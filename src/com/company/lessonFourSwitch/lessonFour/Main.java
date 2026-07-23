@@ -9,7 +9,7 @@ public class Main {
         // byte
         byte a = -128;
         byte c = +127;
-        //short
+        // short
         short d = -32768;
         short e = +32767;
         //int
