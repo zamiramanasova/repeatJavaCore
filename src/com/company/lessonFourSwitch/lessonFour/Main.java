@@ -6,7 +6,7 @@ public class Main {
         // переменные
         byte b = 2;
         System.out.println(b);
-        //byte
+        // byte
         byte a = -128;
         byte c = +127;
         //short
