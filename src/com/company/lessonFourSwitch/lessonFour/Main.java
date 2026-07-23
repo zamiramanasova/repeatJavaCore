@@ -23,7 +23,7 @@ public class Main {
         byte qw = 10;
         int r = 0;
         r = qw;
-        System.out.println(r);//10
+        System.out.println(r);// 10
         // неявное преобразование из int в float
         int m = 255;
         float g = 0f;
