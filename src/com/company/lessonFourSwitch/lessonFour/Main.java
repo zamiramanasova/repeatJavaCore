@@ -39,7 +39,7 @@ public class Main {
         float p = 10.5f;
         int k = 0;
         k = (int) p;
-        System.out.println(k);//10
+        System.out.println(k);// 10
 
         // final
         final int i = 127;
