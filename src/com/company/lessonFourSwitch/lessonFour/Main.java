@@ -19,7 +19,7 @@ public class Main {
         final double PI = 3.1415;
         System.out.println(PI);
 
-        //неявное преобразование из byte в int
+        // неявное преобразование из byte в int
         byte qw = 10;
         int r = 0;
         r = qw;
