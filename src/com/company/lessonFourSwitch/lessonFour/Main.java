@@ -34,7 +34,7 @@ public class Main {
         int x = 128;
         byte n = 0;
         n = (byte) x;
-        System.out.println(n);//-128
+        System.out.println(n);// -128
 
         float p = 10.5f;
         int k = 0;
