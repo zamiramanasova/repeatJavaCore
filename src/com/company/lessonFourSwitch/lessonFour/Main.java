@@ -24,7 +24,7 @@ public class Main {
         int r = 0;
         r = qw;
         System.out.println(r);//10
-        //неявное преобразование из int в float
+        // неявное преобразование из int в float
         int m = 255;
         float g = 0f;
         g = m;
