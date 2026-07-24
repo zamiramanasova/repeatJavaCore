@@ -62,7 +62,6 @@ public class Main {
         t = (byte)f;
         System.out.println(t);// -128
 
-
 //логика счета такова, например нужно преобразовать int 254 в byte
         //                                           /   \
         //                                         127   127
