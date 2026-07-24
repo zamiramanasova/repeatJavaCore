@@ -43,6 +43,5 @@ public class TaskFromAida {
                 System.out.println("В сутках нет такого времени исчисления");
                 break;
         }
-
     }
 }
