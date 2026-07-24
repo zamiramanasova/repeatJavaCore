@@ -50,7 +50,7 @@ public class Main {
         final float z = 255;
         byte o = 0;
         o = (byte) z;
-        System.out.println(o);//-1
+        System.out.println(o);// -1
 
         final int s = 254;
         byte y = 0;
