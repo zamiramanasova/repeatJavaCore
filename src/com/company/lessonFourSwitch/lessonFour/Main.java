@@ -55,7 +55,7 @@ public class Main {
         final int s = 254;
         byte y = 0;
         y = (byte)s;
-        System.out.println(y);//-2
+        System.out.println(y);// -2
 
         final float f = 128.5f;
         byte t = 0;
