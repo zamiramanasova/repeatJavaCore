@@ -33,6 +33,5 @@ public class SwitchWeek {
                 System.out.println("WRONG WRITE DAY");
 
         }
-
     }
 }
