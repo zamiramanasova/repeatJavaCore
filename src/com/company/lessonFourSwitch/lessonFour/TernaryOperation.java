@@ -18,7 +18,6 @@ public class TernaryOperation {
         System.out.println(max1);
 
 
-
         String string = "Hello";
         System.out.println("Введите свой логин");
 
