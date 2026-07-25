@@ -17,7 +17,7 @@ public class TernaryOperator {
         int x = 10, y = -5;
         String quadrant0, quadrant1, quadrant2;
 
-        //варианты написания тернарных операторов
+        // варианты написания тернарных операторов
 
         quadrant0 = (x > 0) ? ((y > 0) ? "I quadrant" : "IV quadrant") : ((y > 0) ? "II quadrant" : "III quadrant");
 
