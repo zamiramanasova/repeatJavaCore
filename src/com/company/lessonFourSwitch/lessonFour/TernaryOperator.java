@@ -30,7 +30,7 @@ public class TernaryOperator {
         System.out.println(quadrant2);
 
 
-        //задача сделать скидку клиенту
+        // задача сделать скидку клиенту
         double quantity = 10;
         double price = 100;
         double discount = 0.75;
