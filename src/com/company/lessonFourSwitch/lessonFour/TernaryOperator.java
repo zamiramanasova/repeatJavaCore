@@ -13,7 +13,6 @@ public class TernaryOperator {
 
 
         // Определение квадранта в котором лежит заданная точка
-
         int x = 10, y = -5;
         String quadrant0, quadrant1, quadrant2;
 
