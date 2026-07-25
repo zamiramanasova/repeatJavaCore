@@ -27,7 +27,6 @@ public class TernaryOperation {
 
         string += login.equals("Admin") ? "Administrator" : "User";
         System.out.println(string);
-
     }
 }
 
