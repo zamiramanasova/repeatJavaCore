@@ -91,7 +91,6 @@ public class FirstOne {
 //            System.out.println("Dont right");
 //        }
 
-
         /**
          * Напишите программу на Java, которая считывает
          * два числа с плавающей запятой и проверяет,
