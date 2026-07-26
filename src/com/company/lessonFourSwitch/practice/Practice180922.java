@@ -1,6 +1,5 @@
 package com.company.lessonFourSwitch.practice;
 
-
 import java.util.Scanner;
 
 /**
