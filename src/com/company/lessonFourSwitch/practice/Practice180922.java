@@ -18,6 +18,5 @@ public class Practice180922 {
 //        int b = sc.nextInt();
 //        int c = sc.nextInt();
 //        if (a < b || a < c ||  )
-
     }
 }
