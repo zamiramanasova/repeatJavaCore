@@ -27,6 +27,7 @@ public class Practice180922 {
         else {
             System.out.println("Ни возрастающий, ни убывающий порядок");
         }
+
         sc.close(); // Закрываем Scanner (хороший тон)
     }
 }
