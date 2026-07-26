@@ -20,7 +20,6 @@ public class FirstOne {
 //        System.out.println(num);
 //        System.out.println(ch);
 
-
         /**
          *  1  Напишите программу на Java,
          * чтобы получить число от пользователя,
