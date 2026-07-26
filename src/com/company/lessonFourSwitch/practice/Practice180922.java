@@ -1,6 +1,6 @@
 package com.company.lessonFourSwitch.practice;
 
-import com.company.lessonFourSwitch.lessonFour.Scannerz;
+
 
 import java.util.Scanner;
 
