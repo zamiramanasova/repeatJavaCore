@@ -12,11 +12,24 @@ import java.util.Scanner;
  */
 public class Practice180922 {
     public static void main(String[] args) {
-//        System.out.println(" Введите число: ");
-//        Scanner sc = new Scanner(System.in);
-//        int a = sc.nextInt();
-//        int b = sc.nextInt();
-//        int c = sc.nextInt();
-//        if (a < b || a < c ||  )
+        System.out.println(" Введите число: ");
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        int c = sc.nextInt();
+        // Проверяем, расположены ли числа в порядке возрастания
+        if (a < b && b < c) {
+            System.out.println("увеличивающиеся");
+        }
+        // Проверяем, расположены ли числа в порядке убывания
+        else if (a > b && b > c) {
+            System.out.println("убывающие");
+        }
+        // Во всех остальных случаях порядок ни возрастающий, ни убывающий
+        else {
+            System.out.println("Ни возрастающий, ни убывающий порядок");
+        }
+
+        sc.close(); // Закрываем Scanner (хороший тон)
     }
 }
