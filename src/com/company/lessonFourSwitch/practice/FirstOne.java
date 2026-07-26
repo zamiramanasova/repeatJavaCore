@@ -9,7 +9,6 @@ import java.util.Scanner;
 public class FirstOne {
     public static void main(String[] args) {
 
-
         /**
          * задача нужно символ char
          * вывести как int, потому что при выводе char символ выводит не само число, а порядковый номер.
