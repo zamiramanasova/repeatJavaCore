@@ -33,5 +33,4 @@ public class Practice {
         System.out.println(sum);
         System.out.println(newNumber);
     }
-
 }
