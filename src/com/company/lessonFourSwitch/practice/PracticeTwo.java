@@ -156,6 +156,7 @@ public class PracticeTwo {
          * как прямоугольный треугольник, с номером, который будет
          * повторять число в ряду. Шаблон выглядит следующим образом:
          */
+
 //        System.out.println("Введите количество строк: ");
 //        Scanner sc = new Scanner(System.in);
 //        int a = sc.nextInt();
