@@ -34,6 +34,7 @@ public class PracticeTwo {
  *  Напишите программу на Java, от которой у пользователя уходит год,
  *  и напечатайте, является ли этот год високосным или нет.
  */
+
 //        System.out.println("Enter your year");
 //        Scanner sc = new Scanner(System.in);
 //        int year = sc.nextInt();
