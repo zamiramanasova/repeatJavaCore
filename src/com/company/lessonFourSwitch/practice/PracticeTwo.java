@@ -99,7 +99,6 @@ public class PracticeTwo {
 //        for (i = 0; i < 5; i++) {
 //            Scanner sc = new Scanner(System.in);
 //            n = sc.nextInt();
-
 //            s += n;
 //        }
 //        avg = s / 5;
