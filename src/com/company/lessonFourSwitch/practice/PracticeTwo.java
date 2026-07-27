@@ -91,7 +91,7 @@ public class PracticeTwo {
          * Тестовые данные
          * Введите 5 цифр: 1 2 3 4 5
          */
-//
+
 //        int i, n = 0, s = 0;
 //        double avg;
 //        System.out.println("Введите 5 цифр:");
