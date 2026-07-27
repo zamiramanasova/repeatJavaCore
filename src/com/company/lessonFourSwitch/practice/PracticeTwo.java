@@ -124,7 +124,7 @@ public class PracticeTwo {
          * Тестовые данные
          * Введите количество терминов: 5
          */
-//
+
 //        System.out.println("Нечетные числа: ");
 //        Scanner sc = new Scanner(System.in);
 //        int a = sc.nextInt();
