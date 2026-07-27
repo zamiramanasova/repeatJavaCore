@@ -140,7 +140,7 @@ public class PracticeTwo {
          * Тестовые данные
          * Введите количество строк:
          */
-//
+
 //        System.out.println("Введите количество строк: ");
 //        Scanner sc = new Scanner(System.in);
 //        int a = sc.nextInt();
