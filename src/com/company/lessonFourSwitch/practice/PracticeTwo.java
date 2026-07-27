@@ -171,6 +171,7 @@ public class PracticeTwo {
          * Напишите программу на Java, которая читает целое число и проверяет,
          * является ли оно отрицательным, нулевым или положительным.
          */
+
 //        System.out.println("Enter you number: ");
 //        Scanner sc = new Scanner(System.in);
 //        int a = sc.nextInt();
