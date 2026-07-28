@@ -95,7 +95,6 @@ public class PracticeTwo {
 //        int i, n = 0, s = 0;
 //        double avg;
 //        System.out.println("Введите 5 цифр:");
-
 //        for (i = 0; i < 5; i++) {
 //            Scanner sc = new Scanner(System.in);
 //            n = sc.nextInt();
