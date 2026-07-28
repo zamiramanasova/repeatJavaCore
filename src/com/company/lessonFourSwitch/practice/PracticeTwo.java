@@ -79,7 +79,7 @@ public class PracticeTwo {
 //        System.out.println(number);
 //            for (int i = 1; i <= number; i++) {
 //                System.out.println(i);
-//
+
 //                sum+=i;
 //            }
 //        System.out.println("The sum " + number + sum);
