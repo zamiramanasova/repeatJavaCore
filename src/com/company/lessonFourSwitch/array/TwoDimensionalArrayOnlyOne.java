@@ -2,6 +2,7 @@ package com.company.lessonFourSwitch.array;
 
 public class TwoDimensionalArrayOnlyOne {
     public static void main(String[] args) {
+
         int[] vector = new int[1];
         vector[0] =100;
         System.out.println(vector[0]);
