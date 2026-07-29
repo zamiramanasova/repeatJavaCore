@@ -2,6 +2,7 @@ package com.company.lessonFourSwitch.array;
 
 public class ThreeDimensionalArray {
     public static void main(String[] args) {
+
         int [][][] array = new int[3][3][3];
 
         array[0][0][0] = 1;
