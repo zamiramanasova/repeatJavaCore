@@ -2,6 +2,7 @@ package com.company.lessonFourSwitch.leetCode;
 
 public class LeetCode {
     public static void main(String[] args) {
+
         mySqrt(4);
         System.out.println(mySqrt(4));
     }
