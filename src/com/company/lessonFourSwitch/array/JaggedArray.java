@@ -11,6 +11,7 @@ public class JaggedArray {
                 };
         // во внешнем цикле выполняется проход по всем вложеннным массивам
         for (int i = 0; i < jagged.length; ++i) {
+
             // во внутреннем цикле выполняется обращение к каждому элементу вложенного массива
             for (int j = 0; j < jagged[i].length; ++j) {
                 System.out.print(" " + jagged[i][j]);
