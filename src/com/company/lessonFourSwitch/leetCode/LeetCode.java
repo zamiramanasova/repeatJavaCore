@@ -10,7 +10,7 @@ public class LeetCode {
     public static int mySqrt(int x) {
         int num = 1;
         int rez = 0;
-        while(x>0){
+        while(x >0){
             x-=num;
             num+=2;
             rez+=(x<0)?0:1;
