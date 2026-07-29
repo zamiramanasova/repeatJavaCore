@@ -2,6 +2,7 @@ package com.company.lessonFourSwitch.array;
 
 public class TwoDimentionalArrayFill {
     public static void main(String[] args) {
+
         int sizeI = 3;
         int sizeJ = 3;
         int[][] array = new int[sizeI][sizeJ];
