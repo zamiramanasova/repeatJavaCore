@@ -8,6 +8,7 @@ package com.company.lessonFourSwitch.leetCode;
  */
 public class PalindromeNumber {
     public static void main(String[] args) {
+
         System.out.println(isPalindrome(121));
     }
 
