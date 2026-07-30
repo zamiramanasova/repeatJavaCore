@@ -5,6 +5,7 @@ package com.company.lessonFourSwitch.leetCode;
  */
 public class PalindromeString {
     public static void main(String[] args) {
+
         String s = "ABCBA";
         System.out.println(isPalindrome(s) ? "YES" : "NO");
     }
