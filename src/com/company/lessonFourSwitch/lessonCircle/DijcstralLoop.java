@@ -21,6 +21,7 @@ public class DijcstralLoop {
                     continue;
             }
             // прерывание цикла
+            break;
         }
     }
 }
