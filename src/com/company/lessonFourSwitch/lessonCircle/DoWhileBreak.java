@@ -2,6 +2,7 @@ package com.company.lessonFourSwitch.lessonCircle;
 
 public class DoWhileBreak {
     public static void main(String[] args) {
+
         int counter = 0;
 
         do {
