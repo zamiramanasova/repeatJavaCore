@@ -1,6 +1,7 @@
 package com.company.lessonFourSwitch.lessonCircle;
 
 public class EndLessLoop {
+
     // БЕСКОНЕЧНЫЙ ЦИКЛ
     public static void main(String[] args) {
         while (true) {
