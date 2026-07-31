@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class DijcstralLoop {
     public static void main(String[] args) {
+
         // БЕСКОНЕЧНЫЙ ЦИКЛ С ПРЕРЫВАНИЕМ ОПЕРАТОРА - BREAK
         int character;
         Scanner in = new Scanner(System.in);
