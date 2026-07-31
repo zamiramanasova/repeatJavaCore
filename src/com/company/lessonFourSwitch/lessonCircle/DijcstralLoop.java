@@ -20,7 +20,7 @@ public class DijcstralLoop {
                     System.out.println("Go right");
                     continue;
             }
-            break; // прерывание цикла
+            // прерывание цикла
         }
     }
 }
