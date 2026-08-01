@@ -14,7 +14,7 @@ public class EndLessLoop {
 //         }
 //         while (true);
 
-//       for (; ; ) {
+//      for (; ; ) {
 //            System.out.println("Hello");
 //        }
     }
