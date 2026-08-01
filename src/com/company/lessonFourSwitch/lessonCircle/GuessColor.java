@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class GuessColor {
     // небольшая игра
     public static void main(String[] args) {
+
         System.out.println("Угадайте задуманный цвет с пяти попыток");
         System.out.println("Для выхода из программы введите - exit");
 
