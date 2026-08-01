@@ -4,6 +4,7 @@ public class EndLessLoop {
 
     // БЕСКОНЕЧНЫЙ ЦИКЛ
     public static void main(String[] args) {
+
         while (true) {
             System.out.println("Hello");
         }
