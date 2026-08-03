@@ -3,6 +3,7 @@ package com.company.lessonFourSwitch.lessonCircle;
 import java.util.Scanner;
 
 public class GuessColor {
+
     // небольшая игра
     public static void main(String[] args) {
 
