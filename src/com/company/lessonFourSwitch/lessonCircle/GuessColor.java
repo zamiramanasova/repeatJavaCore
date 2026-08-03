@@ -29,6 +29,7 @@ public class GuessColor {
             System.out.println("Поздравляем, вы угадали с "+ attempt + " попытки!");
             break;
         }
+
         System.out.println("Конец игры");
     }
 }
