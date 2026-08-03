@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class HomeWorkAida {
     public static void main(String[] args) {
+
         // 1 FOR
         /**
          числа от 1 до 100, которые делятся на 3 и на 5 без остатка &&  %
