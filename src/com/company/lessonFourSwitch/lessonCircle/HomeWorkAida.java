@@ -15,7 +15,7 @@ public class HomeWorkAida {
 //      for (int number = 1; number < 100; number += 15) {
 //           if ()
 //           System.out.println(number);
-//       }
+//        }
 
 /**
  получаем число через консоль от 1 до 10
