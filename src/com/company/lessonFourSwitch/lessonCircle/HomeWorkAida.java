@@ -21,7 +21,7 @@ public class HomeWorkAida {
  получаем число через консоль от 1 до 10
  выводим те цифры от 1 до 100 которые делятся на это число без остатка
  */
-//       System.out.println("Введите число от 1 до 10: ");
+//      System.out.println("Введите число от 1 до 10: ");
 //       Scanner ac = new Scanner(System.in);
 //       int b = ac.nextInt();
 //       for (int a = 1; a < 100; a++) {
