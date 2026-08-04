@@ -13,7 +13,7 @@ public class HomeWorkAida {
 15 30 45 60 75 90
          //         */
 //      for (int number = 1; number < 100; number += 15) {
-//            if ()
+//           if ()
 //            System.out.println(number);
 //       }
 
