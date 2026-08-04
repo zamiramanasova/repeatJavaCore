@@ -14,7 +14,7 @@ public class HomeWorkAida {
          //         */
 //      for (int number = 1; number < 100; number += 15) {
 //           if ()
-//            System.out.println(number);
+//           System.out.println(number);
 //       }
 
 /**
