@@ -26,7 +26,7 @@ public class HomeWorkAida {
 //      int b = ac.nextInt();
 //      for (int a = 1; a < 100; a++) {
 //           if (a % b == 0) {
-//               System.out.println(a);
+//              System.out.println(a);
 //           }
 //       }
 
