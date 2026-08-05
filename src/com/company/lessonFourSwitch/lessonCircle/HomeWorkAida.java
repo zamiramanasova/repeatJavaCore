@@ -36,7 +36,7 @@ public class HomeWorkAida {
  * Ответ = ???
  * */
 //      int count = 0;
-//       for (int h = 1; h < 1000; h++) {
+//      for (int h = 1; h < 1000; h++) {
 //            if (h % 13 == 0) {
 //                count++;
 //            }
