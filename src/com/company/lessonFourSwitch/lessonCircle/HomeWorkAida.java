@@ -41,7 +41,7 @@ public class HomeWorkAida {
 //              count++;
 //           }
 //      }
-//        System.out.println("Числа которые делятся на 13: " + count);
+//       System.out.println("Числа которые делятся на 13: " + count);
 
 
 /**
