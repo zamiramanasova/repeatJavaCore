@@ -43,7 +43,6 @@ public class HomeWorkAida {
 //      }
 //      System.out.println("Числа которые делятся на 13: " + count);
 
-
 /**
  * int sum = 0;
  * int san
