@@ -39,7 +39,7 @@ public class HomeWorkAida {
 //      for (int h = 1; h < 1000; h++) {
 //           if (h % 13 == 0) {
 //              count++;
-//            }
+//           }
 //        }
 //        System.out.println("Числа которые делятся на 13: " + count);
 
