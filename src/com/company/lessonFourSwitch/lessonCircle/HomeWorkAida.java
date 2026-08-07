@@ -54,7 +54,7 @@ public class HomeWorkAida {
 //      System.out.println("Введите любое число: ");
 //      Scanner sc = new Scanner(System.in);
 //      int sum = 0;
-//        while (true) {
+//       while (true) {
 //            int q = sc.nextInt();
 //            if (q > 0) {
 //                sum = q + sum;
