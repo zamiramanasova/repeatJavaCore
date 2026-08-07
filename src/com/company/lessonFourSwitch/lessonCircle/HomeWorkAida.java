@@ -51,7 +51,7 @@ public class HomeWorkAida {
  * если отрицательное или 0 - то завершаем программу.
  * */
 
-//       System.out.println("Введите любое число: ");
+//      System.out.println("Введите любое число: ");
 //        Scanner sc = new Scanner(System.in);
 //        int sum = 0;
 //        while (true) {
