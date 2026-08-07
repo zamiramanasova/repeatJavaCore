@@ -52,7 +52,7 @@ public class HomeWorkAida {
  * */
 
 //      System.out.println("Введите любое число: ");
-//        Scanner sc = new Scanner(System.in);
+//       Scanner sc = new Scanner(System.in);
 //        int sum = 0;
 //        while (true) {
 //            int q = sc.nextInt();
