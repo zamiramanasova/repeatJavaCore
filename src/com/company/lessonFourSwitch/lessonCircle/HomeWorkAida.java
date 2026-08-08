@@ -55,7 +55,7 @@ public class HomeWorkAida {
 //      Scanner sc = new Scanner(System.in);
 //      int sum = 0;
 //      while (true) {
-//            int q = sc.nextInt();
+//           int q = sc.nextInt();
 //            if (q > 0) {
 //                sum = q + sum;
 //                System.out.println(sum);
