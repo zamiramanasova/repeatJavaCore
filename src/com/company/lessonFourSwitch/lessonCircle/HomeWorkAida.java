@@ -58,7 +58,7 @@ public class HomeWorkAida {
 //         int q = sc.nextInt();
 //         if (q > 0) {
 //         sum = q + sum;
-//                System.out.println(sum);
+//               System.out.println(sum);
 //            } else {
 //                break;
 //            }
