@@ -59,7 +59,7 @@ public class HomeWorkAida {
 //         if (q > 0) {
 //         sum = q + sum;
 //              System.out.println(sum);
-//           } else {
+//          } else {
 //               break;
 //            }
 //      }
