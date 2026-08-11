@@ -59,11 +59,12 @@ public class HomeWorkAida {
 //         if (q > 0) {
 //         sum = q + sum;
 //              System.out.println(sum);
-//            } else {
+//           } else {
 //               break;
 //            }
 //      }
 //      System.out.println(sum);
+
 
 /**
  * получить число из консоли san = 2  и вывести таблицу умножения
