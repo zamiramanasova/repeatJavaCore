@@ -63,7 +63,7 @@ public class HomeWorkAida {
 //                break;
 //            }
 //      }
-//       System.out.println(sum);
+//      System.out.println(sum);
 
 /**
  * получить число из консоли san = 2  и вывести таблицу умножения
