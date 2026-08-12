@@ -60,7 +60,7 @@ public class HomeWorkAida {
 //             sum = q + sum;
 //             System.out.println(sum);
 //         } else {
-//              break;
+//             break;
 //            }
 //      }
 //      System.out.println(sum);
