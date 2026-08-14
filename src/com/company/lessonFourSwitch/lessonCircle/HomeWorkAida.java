@@ -84,7 +84,6 @@ public class HomeWorkAida {
 //      System.out.println("Введите число 2");
 //      Scanner sc = new Scanner(System.in);
 //      int a = sc.nextInt();
-
 //        for (int i = 1; i <= 10; i++) {
 //
 //            System.out.println(a + " * " + i + " = " + a * i);
