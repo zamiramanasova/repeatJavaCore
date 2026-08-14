@@ -81,7 +81,7 @@ public class HomeWorkAida {
  * 2*10=20
  * */
 
-//
+
 //        System.out.println("Введите число 2");
 //        Scanner sc = new Scanner(System.in);
 //        int a = sc.nextInt();
