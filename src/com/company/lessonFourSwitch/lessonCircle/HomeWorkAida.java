@@ -80,6 +80,7 @@ public class HomeWorkAida {
  * 2*9=18
  * 2*10=20
  * */
+
 //
 //        System.out.println("Введите число 2");
 //        Scanner sc = new Scanner(System.in);
