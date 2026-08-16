@@ -96,7 +96,7 @@ public class HomeWorkAida {
  * */
 
 //        double d = 0;
-//
+
 //        for (int f = 0; f <= 100; f += 2) {
 //            d = f + d;
 //            d++;
