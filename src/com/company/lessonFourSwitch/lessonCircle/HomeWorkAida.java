@@ -100,7 +100,6 @@ public class HomeWorkAida {
 //            d = f + d;
 //            d++;
 //            System.out.println(d);
-
 //            if (d == 100) {
 //                break;
 //            }
