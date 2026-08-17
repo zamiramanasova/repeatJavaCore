@@ -104,7 +104,6 @@ public class HomeWorkAida {
 //                break;
 //            }
 //        }
-
 //        for (int f = 1; f <= 10; f++) {
 //            System.out.println(Math.pow(f, 2));
 //        }
