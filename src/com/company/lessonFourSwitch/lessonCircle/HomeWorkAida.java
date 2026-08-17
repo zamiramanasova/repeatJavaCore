@@ -12,6 +12,7 @@ public class HomeWorkAida {
 1ден 100гө чейинки сандардан - 3 жана 5ке бөлүнүүчү сандарды консольго чыгарасыз.
 15 30 45 60 75 90
          //         */
+
 //      for (int number = 1; number < 100; number += 15) {
 //           if ()
 //           System.out.println(number);
