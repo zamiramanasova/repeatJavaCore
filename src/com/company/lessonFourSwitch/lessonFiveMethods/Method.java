@@ -48,7 +48,6 @@ public class Method {
 //            System.out.println();
 //        }
 
-
 //        rect(5);
 //        String string = function();
 //        System.out.println(string);
