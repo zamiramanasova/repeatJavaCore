@@ -53,7 +53,6 @@ public class Method {
 //        System.out.println(string);
 //        System.out.println(function());
 
-
 //         int a = 2, b =3;
 //         int sum = add(a, b);
 //         System.out.println(a + " + " + b + " = " + sum);
