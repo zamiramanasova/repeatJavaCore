@@ -5,7 +5,6 @@ public class MethodBinaryDigit {
     static void converter(int n) {
         int temp;
         temp = n % 2;
-
         if (n >= 2)
             converter(n / 2);
 
