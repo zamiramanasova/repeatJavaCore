@@ -3,7 +3,6 @@ package com.company.lessonFourSwitch.lessonFiveMethods;
 public class MethodRecursion {
     static void recursion(int counter) {
         counter--;
-
         System.out.println("Первая половина метода: "+ counter);
 
         if (counter != 0)
