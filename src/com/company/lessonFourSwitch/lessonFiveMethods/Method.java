@@ -57,7 +57,6 @@ public class Method {
 //         int sum = add(a, b);
 //         System.out.println(a + " + " + b + " = " + sum);
 
-
          boolean operand1 = true, operand2 = true;
          boolean result = and(operand1, operand2);
          System.out.println(operand1 + " + " + operand2 + " = " + result);
