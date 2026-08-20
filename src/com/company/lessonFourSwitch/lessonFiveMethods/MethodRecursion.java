@@ -7,7 +7,7 @@ public class MethodRecursion {
         if (counter != 0)
             recursion(counter);
 
-            System.out.println("Вторая половина метода: " + counter);
+            System.out.println(" Вторая половина метода: " + counter);
     }
 
     public static void main(String[] args) {
